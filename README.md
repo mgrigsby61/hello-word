@@ -14,5 +14,18 @@ nt main() {
     cout << "Age: " << age << endl;
     cout << "Height: " << height << endl;
     cout << "Grade: " << grade << endl;
+return 0;
+#include <iostream>
+using namespace std;
 
+int main() {
+   
+ float n,sum;
+    cout << " 11:";
+    cin >> m;
+    cout << " 9:";
+    cin >> n
+    sum= m+n;
+    cout << "The sum of numbers is, " << sum << endl;
     return 0;
+}
